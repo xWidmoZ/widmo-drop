@@ -2,7 +2,14 @@ drops:
   id1:
     name: 'Kox'
     chance: 10
-    drop: "322;1 1 nazwa;&6Diament_z_dropu opis;&7diament"
+    drop: "322;1 1"
     fortune: true
     y: 100
     exp: 25
+  diament:
+    name: 'Diament'
+    chance: 99
+    drop: "264;0 1 name;&bDiament"
+    fortune: true
+    y: 50
+    exp: 100
